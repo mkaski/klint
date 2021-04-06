@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "eslint config à la kventure",
   "main": "index.js",
-  "author": "",
+  "author": "kventure",
   "license": "ISC",
   "peerDependencies": {
     "eslint": "^7.17.0",
