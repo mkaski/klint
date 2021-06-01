@@ -1,10 +1,17 @@
 {
   "name": "@kventure/eslint-config-klint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint config à la kventure",
   "main": "index.js",
   "author": "kventure",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkaski/klint"
+  },
+  "publishConfig":{
+    "registry":"https://registry.npmjs.org"
+  },
   "peerDependencies": {
     "eslint": "^7.17.0",
     "eslint-config-airbnb": "^18.2.1",
