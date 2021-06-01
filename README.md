@@ -5,4 +5,4 @@
 }
 ```
 
-`yarn add git+ssh://git@github.com/mkaski/klint.git -D`
+`yarn add @kventure/eslint-config-klint -D`

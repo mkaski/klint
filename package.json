@@ -1,6 +1,6 @@
 {
   "name": "@kventure/eslint-config-klint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config à la kventure",
   "main": "index.js",
   "author": "kventure",
