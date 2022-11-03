@@ -5,4 +5,4 @@
 }
 ```
 
-`yarn add @kventure/eslint-config-klint -D`
+`npm i @kventure/eslint-config-klint -D`
